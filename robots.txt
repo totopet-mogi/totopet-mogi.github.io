@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://totopet-mogi.github.io/sitemap.xml
